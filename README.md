@@ -120,8 +120,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 These are project screenshots that showcase key features and workflows:
 ![Homepage Screenshot](https://github.com/chanducn/AI-Resume-Screener/blob/0f964b2a2390cbd300174dc613ce7a968c3ed29a/Screenshot%202025-08-05%20120818.png)
 ![Dashboard View](https://github.com/chanducn/AI-Resume-Screener/blob/0f964b2a2390cbd300174dc613ce7a968c3ed29a/Screenshot%202025-08-05%20121020.png)
-
-
-Replace images/homepage.png and images/dashboard.png with the actual paths or URLs to your screenshots.
-
-If you'd like to resize or style them with HTML for more control, just let me know—I can help fine-tune it for a polished presentation.
